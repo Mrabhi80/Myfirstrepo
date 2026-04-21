@@ -11,12 +11,12 @@
   },
   {
     "name": "age",
-    "type": "INTEGER",
+    "type": "FLOAT",
     "mode": "NULLABLE"
   },
   {
     "name": "created_at",
-    "type": "TIMESTAMP",
+    "type": "DATE",
     "mode": "NULLABLE"
   }
 ]
